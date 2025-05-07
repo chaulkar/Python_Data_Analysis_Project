@@ -9,6 +9,6 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 ## Task List
 
-* Clean the dirty data.
+* Perform Data Cleaning.
 * Do Data transformation.
 * Generate insights for management.
